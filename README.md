@@ -9,7 +9,7 @@ Stocks data analizer with GUI (unfinished)
 
 **Languages:** Python
 
-**Packages:** tkinter, yfinance, pandas
+**Packages:** Tkinter, Yfinance, Pandas
 
 
 ## Screenshots
